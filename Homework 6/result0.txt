@@ -1,0 +1,5 @@
+possible problems include:
+
+Different number of points in the files, so they cannot match.
+End of errors in All visited
+
